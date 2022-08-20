@@ -1,7 +1,6 @@
 if [ $# -eq 1 ]; then
 	cont=1
-	for i in $(seq 1 $1)
-	do	
+	for i in $(seq 1 $1); do	
 		cont=$(($cont*$i))
 	done
 	n_fact=$((cont))
