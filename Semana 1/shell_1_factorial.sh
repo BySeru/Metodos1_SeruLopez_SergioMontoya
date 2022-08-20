@@ -6,7 +6,7 @@ function factorial(){
 	do	
 		cont=$(($cont*$i))
 	done
-	let n_fact=$cont
+	n_fact=$((cont))
 }
 factorial
 echo "El factorial de $n es: $n_fact"

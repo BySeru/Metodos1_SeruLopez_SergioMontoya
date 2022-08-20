@@ -1,6 +1,6 @@
 function help(){
 
-	echo "(っ◔︣◡◔᷅)っ Debe incluir tres paramétros c(◕︣◡◕᷅c)"
+	echo "(っ◔︣◡◔᷅)っ Debe incluir tres paramétros:posición inicial, velocidad inicial y tiempo total. c(◕︣◡◕᷅c)"
 }
 
 if ! [ $# -eq 3 ]; then
