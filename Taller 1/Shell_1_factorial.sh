@@ -1,12 +1,13 @@
-echo -n "Ingrese el número del cual desea conocer el factorial: "
-read n
-function factorial(){
-	local cont=1
-	for i in $(seq 1 $n)
+if [ $# -eq 1 ]; then
+	cont=1
+	for i in $(seq 1 $1)
 	do	
 		cont=$(($cont*$i))
 	done
 	n_fact=$((cont))
-}
-factorial
-echo "El factorial de $n es: $n_fact"
+	echo $n_fact
+	else
+    	echo -n "debe ingresar solo un parametro: "
+		read n
+		(./Shell_1_factorial.sh $n)
+fi
