@@ -7,8 +7,8 @@ function checkvalue(){
         echo "╔══════════════════════════════════════════════════════════════════════════╗"
         echo "  Supongamos que $value es un elemento del conjunto {0,1}."
         echo "  Luego $value=0 o $value=1, no obstante $value difiere de dichos valores."
-        echo "  Dado que se llega a una contradicción, se ha de escoger otro elemento."
-        echo "  Intentelo de nuevo."
+        echo "  Dado que se llega a una contradicción, se ha de escoger otro número."
+        echo "  Inténtelo de nuevo."
         echo "╚══════════════════════════════════════════════════════════════════════════╝"
     fi
 }
