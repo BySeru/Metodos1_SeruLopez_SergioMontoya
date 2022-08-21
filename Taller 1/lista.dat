@@ -1,10 +1,10 @@
 ./Factorial.ipynb
 ./Fibonacci.ipynb
-./Shell_1_factorial.sh
-./Shell_2_parametros.sh
-./Shell_3_verificador.sh
-./Shell_4_crearcarpeta.sh
-./Shell_5_variaciones.sh
-./Shell_7_factorial.sh
-./Shell_8_leerarchivos.sh
+./Shell_1_Factorial.sh
+./Shell_2_Parametros.sh
+./Shell_3_Verificador.sh
+./Shell_4_CrearCarpeta.sh
+./Shell_5_Variaciones.sh
+./Shell_7_Factorial.sh
+./Shell_8_LeerArchivos.sh
 ./lista.dat
