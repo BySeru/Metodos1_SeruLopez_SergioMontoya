@@ -6,4 +6,3 @@ while IFS= read -r line; do
 done < lista.dat
 
 echo ${rutas[2]}
-1

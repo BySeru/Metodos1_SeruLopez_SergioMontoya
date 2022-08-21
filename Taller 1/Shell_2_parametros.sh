@@ -21,4 +21,3 @@ else
 	echo -ne 'corriendo programa. . . . . . . . . . (100%)\r'
 	echo -ne '\n'
 fi
-1

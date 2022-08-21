@@ -8,4 +8,3 @@ rest_fact=$(./Shell_1_factorial.sh $rest)
 var=$(($n_fact / $rest_fact))
 
 echo $var
-1
