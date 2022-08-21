@@ -17,3 +17,4 @@ while [ $pass -eq 0 ]; do
     read -p "Ingrese un número tq pertenezca al conjunto {0,1}: " value
     checkvalue $value
 done
+1

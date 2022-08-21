@@ -10,3 +10,4 @@ if [ $# -eq 1 ]; then
 		read n
 		(./Shell_1_factorial.sh $n)
 fi
+1
