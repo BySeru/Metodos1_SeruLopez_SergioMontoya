@@ -6,4 +6,4 @@
 - [Guía de Shell Script](https://atareao.es/tutorial/scripts-en-bash/)
 - [Guía de matplotlib](https://matplotlib.org/stable/tutorials/index.html)
 - [Guía de numpy](https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html)
-- [Guía de sympy](https://claudiovz.github.io/scipy-lecture-notes-ES/packages/sympy.html#matrices)
+- [Guía de sympy](https://claudiovz.github.io/scipy-lecture-notes-ES/packages/sympy.html)
